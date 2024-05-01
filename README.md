@@ -20,10 +20,6 @@ https://github.com/teraz1112/video-convert-to-mono/assets/151537691/8f0dd3b6-694
 
 https://github.com/teraz1112/video-convert-to-mono/assets/151537691/26be4aa9-2952-47ad-8a51-fecfe37a2a00
 
-- 修正後
-
-
-https://github.com/teraz1112/video-convert-to-mono/assets/151537691/3555d640-f5a2-480e-84f7-9369cbbf5c78
 
 
 
